@@ -5,7 +5,7 @@
 ## 🧩 Мои плагины
 Вот над чем я работаю прямо сейчас:
 
-* 🔥 **[GreatWeeb](https://github.com/ManagerNotMoney/GreatWeeb)** — продвинутое культивирование и использование виида в Minecraft.
+* 🔥 **[GreatWeeb](https://github.com/ManagerNotMoney/GreatWeeb)** — продвинутое культивирование и использование травки в Minecraft.
 * 🍳 **[CookingOverhaul](https://github.com/ManagerNotMoney/CookingOverhaul)** — усложнённая система готовки.
 * 📜 **[GreatDocuments](https://github.com/ManagerNotMoney/GreatDocuments)** — добавляет документы на RP-сервер.
 
