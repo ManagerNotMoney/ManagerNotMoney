@@ -5,7 +5,7 @@
   <a href="https://github.com/ManagerNotMoney">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://discord.gg/SwY9dxJDHJ">
+  <a href="https://discordapp.com/users/1130598202761031833">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
