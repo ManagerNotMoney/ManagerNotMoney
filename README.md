@@ -20,7 +20,7 @@ Minecraft-плагины · Веб-игры · Самописные механи
 | **🌿 GreatWeeb**<br>Плагин для Minecraft | Культивирование, сушка, прессовка. Основа экосистемы. | Java · Paper | `in dev` |
 | **🍞 CookingOverhaul**<br>Плагин для Minecraft | Реалистичная кулинария. Помол, тесто, выпечка. | Java · Paper | `in dev` |
 | **📄 GreatDocuments**<br>Плагин для Minecraft | Паспорта, удостоверения и пропуска для RP-серверов. | Java · Paper | `in dev` |
-| **📦 BadCourier**<br>Аддон для GreatWeeb | Система закладок: ищи бочки, выполняй заказы. | Java · Paper | `in dev` |
+| **📦 BadCourier**<br>Аддон для GreatWeeb | Система закладок: ищи бочки, выполняй заказы. | Java · Paper · Vault | `in dev` |
 | **📡 MyCosmo**<br>Плагин для Minecraft | Радиотелескопы, дискеты с сигналами, космическая экономика. | Java · Paper · Vault | `in dev` |
 | **🏛️ Fate of Nations**<br>Браузерная стратегия | Гекс-стратегия с дипломатией, экономикой и процедурными картами. | JS · HTML · CSS | `pre-alpha` |
 
