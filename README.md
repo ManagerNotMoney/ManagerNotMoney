@@ -17,12 +17,13 @@ Minecraft-плагины · Веб-игры · Самописные механи
 
 | Проект | Описание | Стек | Статус |
 |--------|----------|------|--------|
-| **🌿 GreatWeeb**<br>Плагин для Minecraft | Культивирование, сушка, прессовка. Основа экосистемы. | Java · Paper | `in dev` |
-| **🍞 CookingOverhaul**<br>Плагин для Minecraft | Реалистичная кулинария. Помол, тесто, выпечка. | Java · Paper | `in dev` |
-| **📄 GreatDocuments**<br>Плагин для Minecraft | Паспорта, удостоверения и пропуска для RP-серверов. | Java · Paper | `in dev` |
-| **📦 BadCourier**<br>Аддон для GreatWeeb | Система закладок: ищи бочки, выполняй заказы. | Java · Paper · Vault | `in dev` |
-| **📡 MyCosmo**<br>Плагин для Minecraft | Радиотелескопы, дискеты с сигналами, космическая экономика. | Java · Paper · Vault | `in dev` |
+| **🌿 GreatWeeb**<br>Плагин для Minecraft | Культивирование, сушка, прессовка. Основа экосистемы. | Java · Paper | `stable` |
+| **🍞 CookingOverhaul**<br>Плагин для Minecraft | Реалистичная кулинария. Помол, тесто, выпечка. | Java · Paper | `beta` |
+| **📄 GreatDocuments**<br>Плагин для Minecraft | Паспорта, удостоверения и пропуска для RP-серверов. | Java · Paper | `beta` |
+| **📦 BadCourier**<br>Аддон для GreatWeeb | Система закладок: ищи бочки, выполняй заказы. | Java · Paper · Vault | `stable` |
+| **📡 MyCosmo**<br>Плагин для Minecraft | Радиотелескопы, дискеты с сигналами, космическая экономика. | Java · Paper · Vault | `stable` |
 | **🏛️ Fate of Nations**<br>Браузерная стратегия | Гекс-стратегия с дипломатией, экономикой и процедурными картами. | JS · HTML · CSS | `pre-alpha` |
+| **📚 Pedagog**<br>Desktop-приложение | Аналитика успеваемости для учителя. Динамика оценок, XAI-рекомендации, экспорт PDF. | Python · tkinter · SQLite | `stable` |
 
 ---
 
@@ -36,6 +37,9 @@ JavaScript · HTML5 (Canvas 2D) · CSS3
 
 **Инструменты**  
 Git · IntelliJ IDEA
+
+**Desktop / Python**  
+Python 3.12 · tkinter · SQLite · reportlab · pytest
 
 ---
 
