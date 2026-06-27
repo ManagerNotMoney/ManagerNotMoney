@@ -23,7 +23,7 @@ Minecraft-плагины · Веб-игры · Самописные механи
 | **📦 BadCourier**<br>Аддон для GreatWeeb | Система закладок: ищи бочки, выполняй заказы. | Java · Paper · Vault | `stable` |
 | **📡 MyCosmo**<br>Плагин для Minecraft | Радиотелескопы, дискеты с сигналами, космическая экономика. | Java · Paper · Vault | `stable` |
 | **🏛️ Fate of Nations**<br>Браузерная стратегия | Гекс-стратегия с дипломатией, экономикой и процедурными картами. | JS · HTML · CSS | `pre-alpha` |
-| **📚 Pedagog**<br>Desktop-приложение | Аналитика успеваемости для учителя. Динамика оценок, XAI-рекомендации, экспорт PDF. | Python · tkinter · SQLite | `stable` |
+| **📚 ManagerTeatcher**<br>Desktop-приложение | Аналитика успеваемости для учителя. Динамика оценок, XAI-рекомендации, экспорт PDF. | Python · tkinter · SQLite | `stable` |
 
 ---
 
